@@ -16,7 +16,7 @@ Para tener en cuenta. Esta solución ha sido hecha con Python y en la distribuic
 
 Debes clonar el respositorio. Una vez clonado el repositorio, crea un entorno virtual. Luego, instala la librería _facebook-business_ con el comando _pip install -r requirements.txt_.
 
-¡Listo! Ya puedes ejecutar el script desde ejecutando desde la consola de comandos lo siguiete: python _app.py_
+¡Listo! Ya puedes ejecutar el script desde ejecutando desde la consola de comandos lo siguiete: _python _app.py_
 
 ## Construido con 🛠️
 
